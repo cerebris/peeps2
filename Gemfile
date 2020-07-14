@@ -25,8 +25,7 @@ gem 'jbuilder', '~> 2.5'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
-gem 'jsonapi-resources'
-# gem 'jsonapi-resources', '~>0.10.0.beta7'
+gem 'jsonapi-resources', '~>0.10'
 
 gem 'faker', group: [:development, :test]
 
